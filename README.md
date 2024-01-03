@@ -6,7 +6,7 @@ Many additional sources will be presented and referenced in class, and those are
 
 - Abramson John, Chapter 2 "[Spinning the Evidence](articles/Abramson-OverdosedAmerica-chapter2.pdf)" from *Overdosed America*
 - Ahmed Ali et al. (including Love TE) 2006 [Outcomes in ambulatory chronic systolic and diastolic heart failure](articles/Ahmed%20et%20al%202006%20Am%20Heart%20J.pdf). *American Heart Journal*
-- Ahmed Ali et al. (including Love TE) 2006 [Effects of Digoxin on Morbidity and Mortality in Diastolic Heart Failure: THe Ancillary Digitalis Investigation Group Trial](articles/Ahmed%20et%20al%202006%20Circulation.pdf) *Circulation*
+- Ahmed Ali et al. (including Love TE) 2006 [Effects of Digoxin on Morbidity and Mortality in Diastolic Heart Failure: The Ancillary Digitalis Investigation Group Trial](articles/Ahmed%20et%20al%202006%20Circulation.pdf) *Circulation*
 - Ahmed Ali et al. (including Love TE) 2012 [Outcomes in younger and older adults with chronic advanced systolic heart failure: A propensity-matched study](articles/Ahmed%20et%20al%202012%20Int%20J%20Card.pdf) *International Journal of Cardiology*
 - Austin Peter C and Mamdani Muhammad M 2006 [A comparison of propensity score methods: A case study estimating the effectiveness of post-AMI statin use](articles/Austin%20and%20Mamdani%202006%20case%20study.pdf) *Statistics in Medicine*
 - Austin Peter C 2014 [A comparison of 12 algorithms for matching on the propensity score](articles/Austin%202014%20Comparing%2012%20PS%20matching%20algorithms.pdf) *Statistics in Medicine* 33, 1057-69.
@@ -61,6 +61,8 @@ Many additional sources will be presented and referenced in class, and those are
 - Svanstrom Henrik et al. 2013 [Use of Azithromycin and Death from Cardiovascular Cases](articles/Svanstrom%20et%20al%202013%20main%20manuscript.pdf) *New England Journal of Medicine*
     - Also available: [Supplementary Materials for Svanstrom et al 2013](articles/Svanstrom%20et%20al%202013%20supplemental%20content.pdf)
 - Tanenbaum Joseph E et al. 2017 [Propensity Matched Analysis of Outcomes and Hospital Charges for Anterior versus Posterior Cervical Fusion for Cervical Spondylotic Myelopathy](articles/Tanenbaum_2017_extra.pdf) *Clin Spine Surgery*
+- Taramasso M et al. 2019 [Transcatheter versus Medical Treatment of Patients with Symptomatic Severe Tricuspid Regurgitation](articles/Taramasso%202019.pdf)
+    - Also available: follow up small single-arm study by Lurz et al. 2021 [Transcatheter Edge-to-Edge Repair for Treatment of Tricuspid Regurgitation](articles/Lurz%202021%20follow%20up%20to%20Taramasso%202019.pdf)
 - Weintraub William S. et al. 2012 [Comparative Effectiveness of Revascularization Strategies](articles/Weintraub%20et%20al%202012%20NEJM%20CE%20of%20Revascularization%20Strategies%20main%20manuscript.pdf) *New England Journal of Medicine*
     - Also available: [Supplementary Materials for Weintraub et al 2012](articles/Weintraub%20et%20al%202012%20NEJM-CE%20of%20Revascularization%20Strategies%20supplemental%20content.pdf)
 - Weitzen Sherry et al. 2004 [Principles for modeling propensity scores in medical research: A systematic literature review](articles/Weitzen%20et%20al%202004%20Systematic%20Literature%20Review%20of%20Propensity%20Score%20Usage.pdf) *Pharmacoepidemiology and Drug Safety*
