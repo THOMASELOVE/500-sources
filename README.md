@@ -2,6 +2,8 @@
 
 This page houses additional sources (articles, etc.) for Dr. Love's PQHS / CRSP 500 course.
 
+In addition to these, you'll find a PDF version of Paul R. Rosenbaum's book *Observation and Experiment* from 2017 on our Shared Drive.
+
 Many additional sources will be presented and referenced in class, and those are gathered below, along with other references that I've used in the past. I expect you will read some, but not all of these items, depending on what is most useful to you. The PDF files [are available here](articles). Some are password-protected. The password will be revealed at the first class.
 
 - Abramson John, Chapter 2 "[Spinning the Evidence](articles/Abramson-OverdosedAmerica-chapter2.pdf)" from *Overdosed America*
